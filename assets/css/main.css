@@ -3725,6 +3725,11 @@
 		overflow: hidden;
 	}
 
+	#banner b {
+		color:white;
+		font-weight: 900 !important;
+	}
+
 		#banner .inner {
 			-moz-transform: scale(1.0);
 			-webkit-transform: scale(1.0);
